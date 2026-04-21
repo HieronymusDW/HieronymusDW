@@ -18,4 +18,4 @@ Operator and business leader with 15+ years of experience building and scaling t
 - Technology-enabled business scaling
 
 ## Links
-- LinkedIn: [add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/jeroenfokkema/
