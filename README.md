@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jeroen Fokkema
 
-<!--
-**HieronymusDW/HieronymusDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operator and business leader with 15+ years of experience building and scaling technology-driven organizations.
 
-Here are some ideas to get you started:
+## What I focus on
+- Scaling teams and operations in complex environments
+- Driving commercial performance, structure, and predictability
+- Applying AI tools to improve workflows, reporting, and decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- Founder & Executive Director of Noverius
+- Built the business to ~90 FTE and €30M annual revenue
+- Full P&L ownership, international clients, and operational leadership
+
+## Current interests
+- AI-assisted operational workflows
+- Reporting and decision support
+- Technology-enabled business scaling
+
+## Links
+- LinkedIn: [add your LinkedIn URL]
